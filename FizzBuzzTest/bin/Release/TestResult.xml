@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="Z:\Documents\Visual Studio 2010\Projects\FizzBuzzByTDD\FizzBuzzTest\bin\Release\FizzBuzzTest.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-06-24" time="02:03:38">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.3620" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="Z:\Documents\Visual Studio 2010\Projects\FizzBuzzByTDD\FizzBuzzTest\obj\Debug" machine-name="28FE" user="Administrator" user-domain="28FE" />
+  <culture-info current-culture="ja-JP" current-uiculture="ja-JP" />
+  <test-suite type="Assembly" name="Z:\Documents\Visual Studio 2010\Projects\FizzBuzzByTDD\FizzBuzzTest\bin\Release\FizzBuzzTest.dll" executed="True" result="Success" success="True" time="0.016" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="FizzBuzzTest" executed="True" result="Success" success="True" time="0.000" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="FizzBuzzerTest" executed="True" result="Success" success="True" time="0.000" asserts="0">
+            <results>
+              <test-case name="FizzBuzzTest.FizzBuzzerTest.SayNextTest_1回目は1_1" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
